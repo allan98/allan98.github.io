@@ -1,9 +1,15 @@
 <header>
+  <div class="inner">
+    <!-- <h1>Allan98.GitHub.io</h1> -->
+    <h1>Allan's Blog</h1>
+    <h2>点滴记录，简单生活</h2>
+    <!-- <a href="https://github.com/allan98" class="button"><small>Follow me on</small> GitHub</a> -->
+  </div>
 <div id="nav_container">
 <nav>
 {% unless page.layout == 'front' %}
   <ul>
-  <!-- <h1><a href="/">{{ site.title }}</a></h1> -->
+<!--   <h1><a href="/">{{ site.title }}</a></h1> -->
     {% for link in site.navigation %}
       {% assign current = nil %}
       {% if page.url == link.url or page.layout == link.layout %}
