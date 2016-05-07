@@ -1,16 +1,20 @@
 ---
 layout: default
-title: About blueface
+title: Allan's Blog
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+一直以来喜欢通过网络阅读、学习，包括IT技术和IT管理等方面。发现好的文章就会收藏下来，通过浏览器书签、iphone备忘录，有的在电脑，有的在移动设备。在接触了GitHub的技术博客后，产生了通过博客整理那些散落的知识点的想法。希望自己能够坚持不懈。
 
-> It supports blockquotes, too.
+> 
+1. Web 前端技术
+2. C# 服务端
+3. Mobile 编程
+4. Web App
 
-## blueface on the Internet
+## Allan98's Blog on the Internet
 
-* [blueface][github] on GitHub
-* [thien.io][bob], theme creator's website
+* [Allan98][github] Blog on GitHub
+* [allan98.github.io][allan], Repository on GitHub
 
-[github]: https://github.com/tnguyen/blueface/
-[bob]: http://thien.io
+[github]: https://allan98.github.io
+[allan]: https://github.com/allan98/allan98.github.io

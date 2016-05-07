@@ -4,7 +4,7 @@ description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "http://localhost:3000"
-github: http://github.com/ITSJOHNCENA
+github: http://github.com/allan98
 
 markdown: redcarpet
 highlighter: rouge
