@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title></title>
-		<description>my first blog 2016-05.</description>		
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<description>Allan&#39;s first blog at 2016-05.</description>		
+		<link>https://Allan98.github.io</link>
+		<atom:link href="https://Allan98.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Welcome to Jekyll!</title>
@@ -28,8 +28,8 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 
 </description>
 				<pubDate>Sun, 20 Mar 2016 01:40:41 +0800</pubDate>
-				<link>/post/jek/</link>
-				<guid isPermaLink="true">/post/jek/</guid>
+				<link>https://Allan98.github.io/post/jek/</link>
+				<guid isPermaLink="true">https://Allan98.github.io/post/jek/</guid>
 			</item>
 		
 			<item>
@@ -84,8 +84,8 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 &lt;p&gt;Sed imperdiet interdum ultrices. Phasellus iaculis porttitor lorem nec scelerisque. Suspendisse eros urna, adipiscing vel luctus at, feugiat sit amet arcu. Aliquam porttitor ut urna pellentesque sagittis. Donec pellentesque venenatis diam sit amet cursus. Etiam luctus, metus quis gravida fermentum, tortor arcu consequat metus, eget viverra augue risus ac dui. Fusce faucibus scelerisque quam eu sagittis. Sed sit amet sapien non augue lobortis adipiscing. Sed sagittis at lectus eu tempus. Nulla non nulla ut ante condimentum mattis vel at lectus. Nulla ultricies dui et urna semper ultrices. Sed neque ante, dictum in dignissim luctus, facilisis ornare odio. Aenean tempor ultrices magna non pharetra. Curabitur vulputate nec est aliquet suscipit. Etiam ipsum sapien, dictum quis tristique vel, pretium at elit.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
-				<link>/post/tes/</link>
-				<guid isPermaLink="true">/post/tes/</guid>
+				<link>https://Allan98.github.io/post/tes/</link>
+				<guid isPermaLink="true">https://Allan98.github.io/post/tes/</guid>
 			</item>
 		
 	</channel>
