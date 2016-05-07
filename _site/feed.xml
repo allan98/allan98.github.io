@@ -7,6 +7,18 @@
 		<atom:link href="https://Allan98.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Allan&#39;s Blog-从搭建开始！</title>
+				<description>&lt;p&gt;看了很多GitHub搭建博客的网络资料，对于一个新手来说，信息量很大，慢慢摸索着一步一步前行。搭建过程虽然曲折，作为学习新知识来说，是值得的。&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				<pubDate>Sat, 07 May 2016 00:00:00 +0800</pubDate>
+				<link>https://Allan98.github.io/post/Allan-Blog/</link>
+				<guid isPermaLink="true">https://Allan98.github.io/post/Allan-Blog/</guid>
+			</item>
+		
+			<item>
 				<title>Welcome to Jekyll!</title>
 				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
