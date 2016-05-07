@@ -63,6 +63,8 @@ margin-right: auto;
 	padding-right: 32px;
 	padding-left: 32px;
 	width: 640px;
+
+    /*clear: both;*/
 }
 #current {
 	background-color: #b91414;
@@ -360,6 +362,9 @@ header h2 {
   position: relative;
 /*  width: 940px;*/
   margin: 0 auto;
+
+  /*float:left;*/
+/*display: inline;*/
 }
 
 header h1 a {
@@ -381,11 +386,11 @@ header h1 a:hover{
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   .inner {
-    width: 740px;
+    width: 100%;
   }
-  header h1, header h2 {
+/*  header h1, header h2 {
     width: 340px;
-  }
+  }*/
   header h1 {
     font-size: 36px;
   }
@@ -397,10 +402,10 @@ header h1 a:hover{
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   .inner {
-    width: 93%;
+    width: 100%;
   }
   header {
-    padding: 20px 0;
+    /*padding: 20px 0;*/
   }
   header .inner {
     position: relative;
@@ -426,3 +431,46 @@ header h1 a:hover{
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
+
+/*imalogo*/
+
+/*a {text-decoration:none}
+a img{border:none}*/
+
+#imglogo{
+    float:left;
+    /*display: inline;*/
+    width:4em;
+    height:4em;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+  /*border-bottom: solid 1px #275da1;*/
+  position: relative;
+  /*margin: 0 0;*/
+  z-index: 9999;
+/*    margin-left: auto;
+    margin-right: 0;*/
+}
+
+@media only screen and (min-width: 768px){
+    #imglogo{width:5em}
+}
+@media only screen and (min-width: 1024px){
+    #imglogo{width:5.5em}
+}
+#imglogo img{width:4em;}
+@media only screen and (min-width: 768px){
+    #imglogo img{width:5em}
+}
+@media only screen and (min-width: 1024px){
+    #imglogo img{width:5.5em}
+}
+
+#textlogo{
+    float:left;
+/*    width:75%;*/
+/*    margin-left:.5em;
+    margin: 0px;
+    padding: 0px;*/
+}
