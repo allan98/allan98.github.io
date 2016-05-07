@@ -1,7 +1,10 @@
 # Jekyll Defaults
 title: Allan98's Blog
-description: my first blog 2016-05.
+description: Allan's first blog at 2016-05.
 baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://Allan98.github.io"
+github: https://github.com/allan98
 
 highlighter: rouge
 permalink: /post/:title/
