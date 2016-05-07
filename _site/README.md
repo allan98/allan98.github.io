@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 blueface
 =====================
 
@@ -14,7 +13,3 @@ Fork, and rename it to username.github.io and clone!
 	sudo gem install jekyll jekyll-paginate
 	jekyll build
 	jekyll serve
-=======
-# allan98.github.io
-Allan的个人博客
->>>>>>> 0ce5abb74ddf16ddb3e863759f612665e3a7fb88
