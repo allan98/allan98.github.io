@@ -461,7 +461,7 @@ a img{border:none}*/
 }
 #imglogo img{width:4em;}
 @media only screen and (min-width: 768px){
-    #imglogo img{width:5em}
+    #imglogo img{width:4em}
 }
 @media only screen and (min-width: 1024px){
     #imglogo img{width:5.5em}
