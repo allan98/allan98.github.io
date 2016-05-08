@@ -11,20 +11,67 @@
 				<description>&lt;p&gt;看了很多GitHub搭建博客的网络资料，对于一个新手来说，信息量很大，慢慢摸索着一步一步前行。搭建过程虽然曲折，但对学习新知识来说，是值得的。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Jekyll&lt;/li&gt;
+  &lt;li&gt;GitHub &amp;amp; Jekyll&lt;/li&gt;
   &lt;li&gt;Jekyll-Bootstrap&lt;/li&gt;
-  &lt;li&gt;GitHub&lt;/li&gt;
+  &lt;li&gt;Markdown&lt;/li&gt;
   &lt;li&gt;Sublime&lt;/li&gt;
   &lt;li&gt;Git&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h2&gt;
-&lt;p&gt;建议看官方的文章：&lt;/p&gt;
+&lt;h2 id=&quot;github--jekyll&quot;&gt;# GitHub &amp;amp; Jekyll介绍&lt;/h2&gt;
+&lt;p&gt;Git是一个分布式的版本控制系统。Github作为开源代码库以及版本控制系统，只支持Git作为唯一的版本库格式进行托管，已经成为了管理软件开发以及发现已有代码的首选方法。在GitHub，用户可以十分轻易地找到海量的开源代码。Github也为码农提供了一个博客系统，叫做Github Pages。GithubPages可以被认为是用户编写的、托管在Github上的静态网页。&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;推荐阅读这一系列有关Git的文章,讲得深入浅出,生动有趣:&lt;a href=&quot;http://www.worldhello.net/gotgithub/01-explore-github/010-what-is-github.html&quot;&gt;http://www.worldhello.net/gotgithub/01-explore-github/010-what-is-github.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;Jekyll是一个静态站点生成器，它会根据网页源码生成静态文件。它提供了模板、变量、插件等功能，可以用来生成整个网站。利用Jekyll先在本地编写符合Jekyll规范的网站源码，然后上传到Github，由Github生成并托管整个网站。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GitHub Pages is deeply integrated with Jekyll, a popular static site generator designed for blogging and software documentation, but used for much more. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers some other advanced templating features.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;jekyll&quot;&gt;# 学习Jekyll方法推荐官方文档&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.csdn.net/maoxunxing/article/details/40479753&quot;&gt;jekyll 官网文档部分翻译&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;github-blog&quot;&gt;# 搭建GitHub Blog&lt;/h2&gt;
+&lt;p&gt;阮一峰:搭建一个免费的，无限流量的Blog—-github Pages和Jekyll入门
+&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot;&gt;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;使用Jekyll在Github上搭建个人博客&lt;a href=&quot;http://www.tuicool.com/articles/INBnMz&quot;&gt;http://www.tuicool.com/articles/INBnMz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll在github上构建免费的Web应用&lt;a href=&quot;http://blog.fens.me/jekyll-bootstarp-github/&quot;&gt;http://blog.fens.me/jekyll-bootstarp-github/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;# 语法高亮&lt;/h2&gt;
+&lt;p&gt;Jekyll 语法高亮的格式:&lt;a href=&quot;http://jekyllrb.com/docs/posts/#highlighting_code_snippets&quot;&gt;http://jekyllrb.com/docs/posts/#highlighting_code_snippets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;GitHub 语法高亮的格式:&lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown&quot;&gt;https://help.github.com/articles/github-flavored-markdown&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll 代码高亮的几种选择
+&lt;a href=&quot;http://www.2cto.com/kf/201602/489968.htm&quot;&gt;http://www.2cto.com/kf/201602/489968.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;show&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Widget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;respond_to&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+        &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;html&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# show.html.erb&lt;/span&gt;
+    &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;json&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;json: &lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;markdown&quot;&gt;# Markdown&lt;/h2&gt;
+&lt;p&gt;语法说明 (简体中文版)&lt;a href=&quot;http://www.appinn.com/markdown/#list&quot;&gt;http://www.appinn.com/markdown/#list&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bootstrap&quot;&gt;# Bootstrap&lt;/h2&gt;
+&lt;p&gt;人气极高的bootstrap项目，这是一个非常强大的CSS框架，你可以访问它的&lt;a href=&quot;https://github.com/twbs/bootstrap&quot;&gt;项目主页&lt;/a&gt;，点“Fork”就在自己的账号下克隆了一个bootstrap仓库。&lt;/p&gt;
+
+&lt;p&gt;更新中。。。&lt;/p&gt;
 </description>
-				<pubDate>Sat, 07 May 2016 00:00:00 +0800</pubDate>
+				<pubDate>Sat, 07 May 2016 15:11:23 +0000</pubDate>
 				<link>https://Allan98.github.io/post/Allan-Blog/</link>
 				<guid isPermaLink="true">https://Allan98.github.io/post/Allan-Blog/</guid>
 			</item>
