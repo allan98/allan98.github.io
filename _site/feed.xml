@@ -40,20 +40,18 @@
 &lt;p&gt;&lt;a href=&quot;http://blog.csdn.net/maoxunxing/article/details/40479753&quot;&gt;jekyll 官网文档部分翻译&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;github-blog&quot;&gt;# 搭建GitHub Blog&lt;/h2&gt;
-&lt;p&gt;阮一峰:搭建一个免费的，无限流量的Blog—-github Pages和Jekyll入门
-&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot;&gt;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;阮一峰:搭建一个免费的，无限流量的Blog—-&lt;a href=&quot;http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html&quot;&gt;github Pages和Jekyll入门&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;使用Jekyll在Github上搭建个人博客&lt;a href=&quot;http://www.tuicool.com/articles/INBnMz&quot;&gt;http://www.tuicool.com/articles/INBnMz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tuicool.com/articles/INBnMz&quot;&gt;使用Jekyll在Github上搭建个人博客&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll在github上构建免费的Web应用&lt;a href=&quot;http://blog.fens.me/jekyll-bootstarp-github/&quot;&gt;http://blog.fens.me/jekyll-bootstarp-github/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.fens.me/jekyll-bootstarp-github/&quot;&gt;Jekyll在github上构建免费的Web应用&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;section&quot;&gt;# 语法高亮&lt;/h2&gt;
-&lt;p&gt;Jekyll 语法高亮的格式:&lt;a href=&quot;http://jekyllrb.com/docs/posts/#highlighting_code_snippets&quot;&gt;http://jekyllrb.com/docs/posts/#highlighting_code_snippets&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/docs/posts/#highlighting_code_snippets&quot;&gt;Jekyll 语法高亮的格式&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;GitHub 语法高亮的格式:&lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown&quot;&gt;https://help.github.com/articles/github-flavored-markdown&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown&quot;&gt;GitHub 语法高亮的格式&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll 代码高亮的几种选择
-&lt;a href=&quot;http://www.2cto.com/kf/201602/489968.htm&quot;&gt;http://www.2cto.com/kf/201602/489968.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jekyll 代码高亮的&lt;a href=&quot;http://www.2cto.com/kf/201602/489968.htm&quot;&gt;几种选择&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;show&lt;/span&gt;
     &lt;span class=&quot;vi&quot;&gt;@widget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Widget&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
@@ -64,7 +62,7 @@
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;markdown&quot;&gt;# Markdown&lt;/h2&gt;
-&lt;p&gt;语法说明 (简体中文版)&lt;a href=&quot;http://www.appinn.com/markdown/#list&quot;&gt;http://www.appinn.com/markdown/#list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.appinn.com/markdown/#list&quot;&gt;语法说明 (简体中文版&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;bootstrap&quot;&gt;# Bootstrap&lt;/h2&gt;
 &lt;p&gt;人气极高的bootstrap项目，这是一个非常强大的CSS框架，你可以访问它的&lt;a href=&quot;https://github.com/twbs/bootstrap&quot;&gt;项目主页&lt;/a&gt;，点“Fork”就在自己的账号下克隆了一个bootstrap仓库。&lt;/p&gt;

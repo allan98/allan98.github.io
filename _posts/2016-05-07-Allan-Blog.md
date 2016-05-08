@@ -32,20 +32,18 @@ Jekyll是一个静态站点生成器，它会根据网页源码生成静态文�
 [jekyll-gh]: https://github.com/mojombo/jekyll
 
 ## # 搭建GitHub Blog
-阮一峰:搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
-<http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html>
+阮一峰:搭建一个免费的，无限流量的Blog----[github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 
-使用Jekyll在Github上搭建个人博客<http://www.tuicool.com/articles/INBnMz>
+[使用Jekyll在Github上搭建个人博客](http://www.tuicool.com/articles/INBnMz)
 
-Jekyll在github上构建免费的Web应用<http://blog.fens.me/jekyll-bootstarp-github/>
+[Jekyll在github上构建免费的Web应用](http://blog.fens.me/jekyll-bootstarp-github/)
 
 ## # 语法高亮
-Jekyll 语法高亮的格式:<http://jekyllrb.com/docs/posts/#highlighting_code_snippets>
+[Jekyll 语法高亮的格式](http://jekyllrb.com/docs/posts/#highlighting_code_snippets)
 
-GitHub 语法高亮的格式:<https://help.github.com/articles/github-flavored-markdown>
+[GitHub 语法高亮的格式](https://help.github.com/articles/github-flavored-markdown)
 
-Jekyll 代码高亮的几种选择
-<http://www.2cto.com/kf/201602/489968.htm>
+Jekyll 代码高亮的[几种选择](http://www.2cto.com/kf/201602/489968.htm)
 
 {% highlight ruby %}
 def show
@@ -58,7 +56,7 @@ end
 {% endhighlight %}
 
 ## # Markdown 
-语法说明 (简体中文版)<http://www.appinn.com/markdown/#list>
+[语法说明 (简体中文版](http://www.appinn.com/markdown/#list)
 
 ## # Bootstrap
 人气极高的bootstrap项目，这是一个非常强大的CSS框架，你可以访问它的[项目主页](https://github.com/twbs/bootstrap)，点“Fork”就在自己的账号下克隆了一个bootstrap仓库。
