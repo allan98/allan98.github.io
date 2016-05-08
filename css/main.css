@@ -309,14 +309,14 @@ pre code {
 	}
 
 /* my cyan header */
-/*header {
+header {
   padding-top: 20px;
   padding-bottom: 20px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
   border-bottom: solid 1px #275da1;
-}*/
+}
 
 header h1 {
 /*  width: 540px;*/
@@ -352,12 +352,12 @@ header h2 {
 }
 
 .inner {
-  padding-top: 40px;
+/*  padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
-  border-bottom: solid 1px #275da1;
+  border-bottom: solid 1px #275da1;*/
 
   position: relative;
 /*  width: 940px;*/
