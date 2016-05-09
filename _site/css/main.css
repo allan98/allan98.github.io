@@ -308,17 +308,6 @@ pre code {
 
 	}
 
-@media (max-width: 703px) {
-        #main {
-            /*width: 100%;*/
-            margin-left: auto;
-            margin-right: auto;
-        }
-        p { font-size: 1em }
-        .heading { font-size: 32px }
-
-  }
-
 /* my cyan header */
 /*header {
   padding-top: 20px;
